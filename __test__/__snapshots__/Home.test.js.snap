@@ -1,4 +1,4 @@
-exports[`>>>H O M E --- Snapshot +++capturing Snapshot of Home 1`] = `
+exports[`<Home /> Snapshot capturing Snapshot of Home 1`] = `
 <div
   className="container">
   <h2>
@@ -26,11 +26,13 @@ exports[`>>>H O M E --- Snapshot +++capturing Snapshot of Home 1`] = `
   </div>
   <div>
     <button
+      className="button"
       id="add"
       onClick={[Function]}>
       Add
     </button>
     <button
+      className="button"
       id="subtract"
       onClick={[Function]}>
       Subtract
